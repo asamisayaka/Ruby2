@@ -16,7 +16,7 @@ def katimake(input2,watashi2)
     puts "あなたの勝ちです"
     false
   else
-    puts "あなたの負けです,yooooooo"
+    puts "あなたの負けです,yooooooo,yooooooooooooooo"
     false
   end
 end
